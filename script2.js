@@ -1,1 +1,0 @@
-console.log('Hello from Script2.js')
